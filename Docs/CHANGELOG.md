@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-10-09 (criação do README)
+
+- `README.md`: criado arquivo de apresentação completo na raiz do projeto com sumário, demonstração de recursos, tabela de gestos, requisitos, instruções passo a passo de instalação e execução, suporte a múltiplos monitores, guia de calibração, estrutura de diretórios, links para `Docs/` e solução de problemas.
+- `Docs/FILE_MAP.md`: atualizado mapa com a entrada do `README.md`.
+
 ## 2026-10-09 (features multimonitor e duplo clique)
 
 - `requirements.txt`: adicionada dependência `screeninfo==0.8.1`.

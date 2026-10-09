@@ -3,6 +3,7 @@
 | Arquivo | Finalidade | Importa | Usado por |
 |---|---|---|---|
 | `requirements.txt` | Dependências com versões fixas (OpenCV, MediaPipe, PyAutoGUI, screeninfo) | - | Instalação (`pip`) |
+| `README.md` | Apresentação geral, guia de instalação, tabela de gestos, configuração e troubleshooting | - | Apresentação e guia rápido |
 | `.gitignore` | Ignora `.venv/`, `models/`, caches, `.env*` | - | git |
 | `models/hand_landmarker.task` | Modelo MediaPipe (baixado automaticamente; ignorado pelo git) | - | `src/hand_tracker.py` |
 | `src/__init__.py` | Marca o pacote | - | - |
